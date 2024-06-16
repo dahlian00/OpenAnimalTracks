@@ -1,0 +1,10 @@
+.idea
+*.pth
+*.pt
+*.DS_Store
+*.png
+*.jpg
+*.jpeg
+*.tar
+
+data/
