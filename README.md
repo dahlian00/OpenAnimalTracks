@@ -12,7 +12,6 @@ Details are described in the following paper:
 # Dataset
 We plan to release the dataset on the IEEE Dataport provided by ICIP.   
 We are currently awaiting the ICIP invitation to the IEEE Dataport.   
-As soon as we have access, we will release the dataset.
 
 Please fill in the [Google Form](https://forms.gle/KRfVyjbKDTqtCPu36) to confirm that the usage is for research purposes.   
 We will send the dataset link as soon as it is released.
