@@ -10,4 +10,4 @@ Details are described in the following paper:
 2024/06/17  Released the code
 
 # Acknowledgements
-We sincerely thank Beartracker’s Animal Tracks(https://www.bear-tracker.com/guide.html), the Wildlife Research Center of Kyoto University(https://www.wrc.kyoto-u.ac.jp/en/), and Japan Wildlife Center(https://www.jwc-web.org/top.html) for their contribution to the images that enabled this research.   
+We sincerely thank [Beartracker’s Animal Tracks](https://www.bear-tracker.com/guide.html), the [Wildlife Research Center of Kyoto University](https://www.wrc.kyoto-u.ac.jp/en/), and [Japan Wildlife Center](https://www.jwc-web.org/top.html) for their contribution to the images that enabled this research.   
