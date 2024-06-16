@@ -9,5 +9,10 @@ Details are described in the following paper:
 # Changelog
 2024/06/17  Released the code
 
+# Dataset
+We plan to release the dataset on the IEEE Dataport provided by ICIP.   
+We are currently awaiting the ICIP invitation to the IEEE Dataport.   
+As soon as we have access, we will release the dataset.
+
 # Acknowledgements
 We sincerely thank [Beartracker’s Animal Tracks](https://www.bear-tracker.com/guide.html), the [Wildlife Research Center of Kyoto University](https://www.wrc.kyoto-u.ac.jp/en/), and [Japan Wildlife Center](https://www.jwc-web.org/top.html) for their contribution to the images that enabled this research.   
