@@ -25,3 +25,15 @@ Please follow the [detection](https://github.com/dahlian00/OpenAnimalTracks/tree
 
 # Acknowledgements
 We sincerely thank [Beartracker’s Animal Tracks](https://www.bear-tracker.com/guide.html), the [Wildlife Research Center of Kyoto University](https://www.wrc.kyoto-u.ac.jp/en/), and [Japan Wildlife Center](https://www.jwc-web.org/top.html) for their contribution to the images that enabled this research.   
+
+# Citation
+If you find our work useful for your research, please consider citing our paper:
+```bibtex
+@misc{shinoda2024openanimaltracks,
+      title={OpenAnimalTracks: A Dataset for Animal Track Recognition}, 
+      author={Risa Shinoda and Kaede Shiohara},
+      year={2024},
+      eprint={2406.09647},
+      archivePrefix={arXiv}
+}
+```
