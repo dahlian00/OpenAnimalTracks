@@ -18,8 +18,6 @@ We are currently awaiting the ICIP invitation to the IEEE Dataport.
 Please fill in the [Google Form](https://forms.gle/KRfVyjbKDTqtCPu36) to confirm that the usage is for research purposes.   
 We will send the dataset link as soon as it is released.
 
-We 
-
 # Code
 Please follow the [detection](https://github.com/dahlian00/OpenAnimalTracks/tree/main/detection) and [classification](https://github.com/dahlian00/OpenAnimalTracks/tree/main/classification) ReadMe to implement our baselines.
 
