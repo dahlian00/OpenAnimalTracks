@@ -1,6 +1,6 @@
 # OpenAnimalTracks (ICIP 2024)
 <a href='https://arxiv.org/abs/2406.09647'><img src='https://img.shields.io/badge/Paper-PDF-red'></a> &nbsp;   
-This repository contains the official OpenAnimalTracks dataset and codes.
+This repository contains the official OpenAnimalTracks dataset and code.
 Details are described in the following paper: 
 > [**OpenAnimalTracks: A Dataset for Animal Track Recognition**](),  
 > Risa Shinoda*, Kaede Shiohara* (*equal contribution)
