@@ -12,11 +12,8 @@ Details are described in the following paper:
 
 # Dataset
 This dataset is for research purposes only.
-We plan to release the dataset on the IEEE Dataport provided by ICIP.   
-We are currently awaiting the ICIP invitation to the IEEE Dataport.   
-
 Please fill in the [Google Form](https://forms.gle/KRfVyjbKDTqtCPu36) to confirm that the usage is for research purposes.   
-We will send the dataset link as soon as it is released.
+We will send the dataset link as soon as we confirm the Google Form.
 
 # Code
 Please follow the [detection](https://github.com/dahlian00/OpenAnimalTracks/tree/main/detection) and [classification](https://github.com/dahlian00/OpenAnimalTracks/tree/main/classification) ReadMe to implement our baselines.
