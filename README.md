@@ -24,11 +24,10 @@ We sincerely thank [Beartracker’s Animal Tracks](https://www.bear-tracker.com/
 # Citation
 If you find our work useful for your research, please consider citing our paper:
 ```bibtex
-@misc{shinoda2024openanimaltracks,
-      title={OpenAnimalTracks: A Dataset for Animal Track Recognition}, 
-      author={Risa Shinoda and Kaede Shiohara},
-      year={2024},
-      eprint={2406.09647},
-      archivePrefix={arXiv}
+@article{shinoda2024openanimaltracks,
+  title={OpenAnimalTracks: A Dataset for Animal Track Recognition},
+  author={Shinoda, Risa and Shiohara, Kaede},
+  journal={arXiv preprint arXiv:2406.09647},
+  year={2024}
 }
 ```
