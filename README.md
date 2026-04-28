@@ -35,3 +35,15 @@ If you find our work useful for your research, please consider citing our paper:
   doi={10.1109/ICIP51287.2024.10648043}}
 
 ```
+
+Please consider citing our related paper:
+```bibtex
+@inproceedings{shinoda2025animalclue,
+  title={AnimalClue: Recognizing Animals by Their Traces},
+  author={Shinoda, Risa and Inoue, Nakamasa and Laina, Iro and Rupprecht, Christian and Kataoka, Hirokatsu},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={14776--14786},
+  year={2025}
+}
+    
+```
